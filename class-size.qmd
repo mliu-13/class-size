@@ -1,0 +1,42 @@
+---
+title: "Class Size"
+author: "Melody Liu"
+format: html
+execute:
+  echo: FALSE
+---
+
+```{r}
+#| label: setup
+#| message: FALSE
+
+library(tidybayes)
+library(tidyverse)
+library(brms)
+library(gtsummary)
+```
+
+## Question:
+What factor impacts grade 4 math scores the most?
+
+## Quantity of Interest: 
+
+Does your race correlate to 4th grade scores on standardized tests?
+
+## Preceptor Table:
+
+Units - students (now)
+
+Covariates - race
+
+Outcome - score
+
+## Counter-argument for 4 key assumptions of population table:
+
+Validity - 
+
+Stability - the education system is constantly changing and this may impact the quality of it
+
+Representativeness - this sample only represents people with access to proper schooling that provides this standardized test
+
+Unconfoundedness - 
