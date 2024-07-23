@@ -37,6 +37,6 @@ Validity -
 
 Stability - the education system is constantly changing and this may impact the quality of it
 
-Representativeness - this sample only represents people with access to proper schooling that provides this standardized test
+Representativeness - this sample only represents data from Tenessee/students with access to proper schooling that provides this standardized test
 
 Unconfoundedness - 
